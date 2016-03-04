@@ -8,7 +8,7 @@ Created on Thu Feb 18 20:42:15 2016
 import POSController
 def instructions():
 	print(
-    'Welcome to the POS! \n\n'
+    'Welcome to the POS! \n\n\n'
     'If you want to add a new sale operation, please input with the blank: \n'
       '1. "sale" \n' 
       '2. "customerid:(AB*****)" \n'
